@@ -6,4 +6,7 @@
 ・PhotonNetWork2
 
 説明
-二人プレイで遊べるオンライン型VRシューティングゲームとなっております。（一人プレイも可）
+二人プレイで遊べるオンライン型VRシューティングゲームとなっております。（一人プレイ可）
+
+デモ動画URL
+https://drive.google.com/file/d/1XCROADyKrTdvWRc3NuGUr_yPF27fHmk2/view?usp=sharing
